@@ -1,2 +1,2 @@
-# mozNIEC
-Mozilla NIEC project
+# MOZ-NIEC
+Mozilla NIEC website
